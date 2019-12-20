@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1"
+  }
+}
